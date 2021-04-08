@@ -1,4 +1,4 @@
-#Day 1 + 2
+# Day 1 + 2
 
 **Hoisting**
 
@@ -99,7 +99,7 @@
 
 
 
-#Day 3 + 4
+# Day 3 + 4
 
 **this, apply, call, bind**
 
