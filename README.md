@@ -73,6 +73,7 @@ Initial Repository
 	- Else if to specify a new condition to test, if the first condition is false
 	- Switch to specify manny alternative blocks of code to be executed
 **Data type**
+
 	|Data Types|Description|Example|
 	|---|---|---|
 	|String	|textual data|'Hello world!'|
