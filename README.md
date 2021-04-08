@@ -4,10 +4,10 @@
 
 	Hoisting is a Javascript mechanism where variables and function declarations are moved to top of their scope before code execution, same with the function.
 	```js
-	 function hoisting (){
-	 	console.log(a);
+	function hoisting (){
+		console.log(a);
 	 	var a = "Hello world!"
-	 }
+	}
 	 ///Result: undefined
 	```
 	*Because The variable declaration is hoist in the top of function, but the initialise is not change*
