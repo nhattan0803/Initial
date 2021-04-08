@@ -165,3 +165,8 @@
 	```js
 	clearInterval(myVar);
 	with myVar = setInterval(function, milliseconds);
+	```
+ ```js
+   const myvar = "hello"
+   module.exports.response = response = ()=>{mycode here}
+    ```
