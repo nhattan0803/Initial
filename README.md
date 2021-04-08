@@ -74,8 +74,8 @@ Initial Repository
 	- Switch to specify manny alternative blocks of code to be executed
 **Data type**
 
-	|Data Types|Description|Example|
-	|---|---|---|
-	|String	|textual data|'Hello world!'|
-	|Number|An interger or a floating-point number|3; 3.14;...|
-	|BigInt|An interger with arbitrary precision|1n,...|
+	|Data Types  |Description                           |Example       |
+	|------------|--------------------------------------|--------------|
+	|String	     |textual data                          |'Hello world!'|
+	|Number      |An interger or a floating-point number|3; 3.14;...   |
+	|BigInt      |An interger with arbitrary precision  |1n,...        |
