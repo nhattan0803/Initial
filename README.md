@@ -10,12 +10,14 @@
 	}
 	 ///Result: undefined
 ```
+
 	*Because The variable declaration is hoist in the top of function, but the initialise is not change*
 
 **Scope and Closure**
 
 	- Scope: When we declare a variable in a function, we can only access it in the function. These variable are call to be scoped to the function. There are 2 types of scopes in javascript: Global scope(block scope) and local scope(function scope)
 	- Closure: If we define any inner function within another function, this inner function is called a closure. It retains access to the variables created in the outer function.
+	
 	*Example:*
 ```js
 	var countNumbmer = (()=> {
